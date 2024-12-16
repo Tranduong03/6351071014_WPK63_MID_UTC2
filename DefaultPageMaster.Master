@@ -8,7 +8,7 @@
 <head runat="server">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NguyenViet_6351071054_WP001</title> <!-- Sinh viên ghi chú thông tin như cú pháp yêu cầu trong thẻ title-->
+    <title>Trần Nguyễn Phi Dương_6351071014</title> <!-- Sinh viên ghi chú thông tin như cú pháp yêu cầu trong thẻ title-->
 <asp:ContentPlaceHolder ID="head" runat="server">
 </asp:ContentPlaceHolder>
     <link rel="stylesheet" href="style.css">
@@ -25,7 +25,7 @@
         </div>
 
         <div id="banner">
-            <h2> Nguyễn Viết Ái Nhi_6351071054_WP001 </h2><!-- Sinh viên ghi chú thông tin như cú pháp yêu cầu trong thẻ title-->
+            <h2> Trần Nguyễn Phi Dương_6351071014_WP001 </h2><!-- Sinh viên ghi chú thông tin như cú pháp yêu cầu trong thẻ title-->
         </div>
 
         <div id="breadcrumb">
